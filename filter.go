@@ -2,7 +2,7 @@
 package filter
 
 import (
-	"github.com/lnsp/filematch"
+	filematch "github.com/lnsp/go-filematch"
 	"io/ioutil"
 	"strings"
 )
