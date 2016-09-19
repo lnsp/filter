@@ -1,4 +1,4 @@
-Filter [![Build Status](https://travis-ci.org/lnsp/filter.svg?branch=master)](https://travis-ci.org/lnsp/filter)
+Filter [![Build Status](https://travis-ci.org/lnsp/go-filter.svg?branch=master)](https://travis-ci.org/lnsp/go-filter)
 =========
 
 Package filter provides file path filtering.
